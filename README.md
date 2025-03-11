@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mugdha268/mugdha268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,64 +12,91 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hey there! I'm Mugdha Rupak Sonare  
+<h1 align="center">👋 Hey there! I'm Mugdha Rupak Sonare</h1>
 
-🎯 **Data Engineer | Business Intelligence Developer | Problem Solver**  
-📍 Dallas, Texas | 📩 mugdhasonare@gmail.com | [LinkedIn](https://linkedin.com/in/mugdha-sonare)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&width=435&lines=Data+Engineer;Business+Intelligence+Developer;Problem+Solver;ETL+%7C+Cloud+%7C+Analytics;Python+%7C+SQL+%7C+Snowflake;Transforming+Data+Into+Insights" />
+</p>
 
 ---
 
 ## 🚀 About Me  
-I'm a **Data Engineer** and **Business Intelligence Developer** with a strong passion for transforming raw data into actionable insights. With experience in **ETL processes, data warehousing, and dashboard development**, I specialize in optimizing data workflows and driving **data-driven decision-making**.  
 
-Currently, I'm pursuing my **Master of Science in Information and Technology Management** at **The University of Texas at Dallas.** 
-I also have a **Graduate Certificate in Business Intelligence and Data Mining**.  
+🎯 **Data Engineer | Business Intelligence Developer | Problem Solver**  
+📍 Dallas, Texas | 📩 mugdhasonare@gmail.com | [LinkedIn](https://linkedin.com/in/mugdha-sonare)  
 
----
+I specialize in **data engineering, analytics, and cloud-based solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and business intelligence tools**.
 
-## 💡 What I Do  
-
-- 🚀 **Data Engineering**: Designing scalable **ETL pipelines**, data models, and database solutions using **Snowflake, Teradata, and MySQL**  
-- 📊 **Business Intelligence**: Creating insightful dashboards with **Tableau, Power BI, and AWS Quicksight**  
-- ☁ **Cloud & Automation**: Migrating on-premise systems to **cloud platforms** like **AWS Redshift & Athena** while automating workflows with **Jenkins and Airflow**  
-- 📈 **Data Science & Analytics**: Leveraging **SQL, Python, and R** to extract, transform, and analyze data  
+- 📚 **Currently Pursuing**: MS in **Information and Technology Management** @ **UT Dallas**
+- 🏢 **Previously Worked at**: Amdocs | Vulcan Materials (Upcoming Intern)
+- 🎯 **Interests**: Data Engineering, BI, Cloud, Automation  
+- 📊 **Tech Stack**: Python, SQL, Snowflake, Power BI, Tableau  
 
 ---
 
-## 💼 Experience  
+## 🛠️ My Tech Stack  
 
-### 💻 Data Engineer Intern | Vulcan Materials Company *(Upcoming - Summer 2024)*  
-- Engineered **Tableau dashboards** to track KPIs, leading to a **25% reduction in operational costs**  
-- Migrated data to **Tableau Cloud**, improving data refresh accuracy by **15%**  
-- Built advanced **dimensional data models** in **Snowflake** to enhance reporting and data navigation  
+### **Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Data Warehouse/BI Developer | Amdocs Development Centre *(2021 - 2023)*  
-- Developed and maintained **ETL pipelines** for the largest US telecom company, improving efficiency by **20%**  
-- Led **on-premise to cloud** migration with **<1% data transfer errors**  
-- Automated data ingestion, reducing data load times by **20%**  
+### **Business Intelligence & Cloud**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### **Development & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack  
+## 📊 My GitHub Stats  
 
-💻 **Languages**: Python | SQL | R | Unix Shell Scripting  
-💾 **Databases**: Snowflake | Teradata | MySQL | PostgreSQL | SQL Server | Oracle | AWS Redshift | Athena  
-📊 **BI Tools**: Tableau | Power BI | AWS Quicksight | MS Excel  
-⚙ **Others**: Jenkins | Airflow | Git | Jira  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugdha268&theme=radical&hide_border=true" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mugdha268&show_icons=true&theme=radical&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 💼 Work Experience  
+
+### 📌 **Data Engineer Intern | Vulcan Materials Company (Upcoming - Summer 2024)**
+- 🚀 Built **Tableau dashboards** to track KPIs, reducing operational costs by **25%**  
+- 📊 Migrated data to **Tableau Cloud**, improving refresh accuracy by **15%**  
+- 🏗️ Designed **dimensional data models** in **Snowflake** for efficient reporting  
+
+### 📌 **Data Warehouse/BI Developer | Amdocs Development Centre (2021 - 2023)**
+- 💾 Developed **ETL pipelines** for the largest US telecom company, improving efficiency by **20%**  
+- ☁ Migrated on-premise data to **Snowflake cloud** with **<1% data loss**  
+- 🔄 Automated data ingestion, reducing data load time by **20%**  
 
 ---
 
 ## 🎤 Leadership & Mentorship  
 
 👩‍🏫 **Graduate Teaching Assistant | UTD, JSOM Career Management Center (2024 - Present)**  
-- Mentored **350+ students** on **resume building, LinkedIn optimization, and job search strategies**  
+- 🚀 Mentored **350+ students** on **resume building, LinkedIn optimization, and job search strategies**  
 
 ---
 
-## 📬 Let's Connect!  
+## 📬 Connect With Me!  
 
 📩 **Email**: mugdhasonare@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/mugdha-sonare](https://linkedin.com/in/mugdha-sonare)  
-📌 **GitHub**: [Your GitHub Profile Link]  
+📌 **GitHub**: [github.com/mugdha268](https://github.com/mugdha268)  
 
-🚀 Always open to discussing **data engineering, analytics, and exciting opportunities!**  
+---
+
+### 🌟 Fun Fact:  
+I love **solving data challenges** and **creating interactive dashboards**! If you’re passionate about **data engineering and BI**, let’s connect! 🚀
