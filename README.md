@@ -34,6 +34,21 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ---
 
+## 🏆 Competitive Programming & Problem Solving  
+
+<p align="center">
+  <a href="https://leetcode.com/u/codalyst268/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile">
+  </a>
+  <a href="https://www.hackerrank.com/profile/mugdhasonare">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
+  </a>
+</p>
+
+🔥 I love **solving coding challenges!** Check out my **LeetCode** & **HackerRank** profiles to see my latest problem-solving adventures.  
+
+---
+
 ## 🛠️ My Tech Stack  
 
 ### **Languages & Databases**  
@@ -83,6 +98,16 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ---
 
+## 🎓 Academic Projects  
+
+📌 **Flight Delay Analysis using MySQL & Tableau**  
+📊 Designed a database for **US flight schedules and delays**, visualized trends with **Tableau**  
+
+📌 **Predictive Sales Forecasting for Frozen Products (Power BI)**  
+📈 Built a **forecasting model** using historical sales data and **advanced DAX formulas**  
+
+---
+
 ## 🎤 Leadership & Mentorship  
 
 👩‍🏫 **Graduate Teaching Assistant | UTD, JSOM Career Management Center (2024 - Present)**  
@@ -100,3 +125,4 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ### 🌟 Fun Fact:  
 I love **solving data challenges** and **creating interactive dashboards**! If you’re passionate about **data engineering and BI**, let’s connect! 🚀
+
