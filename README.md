@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 I specialize in **data engineering, analytics, and cloud-based solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and business intelligence tools**.
 
 - 📚 **Currently Pursuing**: MS in **Information and Technology Management** @ **UT Dallas**
-- 🏢 **Previously Worked at**: Amdocs | Vulcan Materials (Upcoming Intern)
-- 🎯 **Interests**: Data Engineering, BI, Cloud, Automation  
-- 📊 **Tech Stack**: Python, SQL, Snowflake, Power BI, Tableau  
+- 🏢 **Previously Worked at**: Amdocs | Vulcan Materials
+- 🎯 **Interests**: Data Engineering, Business Intelligence  
+- 📊 **Tech Stack**: Python, SQL, Snowflake, Teradata, Power BI, Tableau  
 
 ---
 
@@ -58,11 +58,9 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Business Intelligence & Cloud**  
+### **Data Visualization Tools**  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### **Development & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
