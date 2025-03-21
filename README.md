@@ -86,12 +86,12 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ## 💼 Work Experience  
 
-### 📌 **Data Engineer Intern | Vulcan Materials Company (Upcoming - Summer 2024)**
+### 📌 **Data Engineer Intern | Vulcan Materials Company (June 2024 - August 2024)**
 - 🚀 Built **Tableau dashboards** to track KPIs, reducing operational costs by **25%**  
 - 📊 Migrated data to **Tableau Cloud**, improving refresh accuracy by **15%**  
 - 🏗️ Designed **dimensional data models** in **Snowflake** for efficient reporting  
 
-### 📌 **Data Warehouse/BI Developer | Amdocs Development Centre (2021 - 2023)**
+### 📌 **Data Warehouse/BI Developer | Amdocs Development Centre (August 2021 -  July 2023)**
 - 💾 Developed **ETL pipelines** for the largest US telecom company, improving efficiency by **20%**  
 - ☁ Migrated on-premise data to **Snowflake cloud** with **<1% data loss**  
 - 🔄 Automated data ingestion, reducing data load time by **20%**  
