@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hey there! I'm Mugdha Rupak Sonare</h1>
+<h1 align="center">👋 Hey there! I'm Mugdha</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&width=435&lines=Data+Engineer;Business+Intelligence+Developer;Problem+Solver;ETL+%7C+Cloud+%7C+Analytics;Python+%7C+SQL+%7C+Snowflake;Transforming+Data+Into+Insights" />
@@ -98,16 +98,6 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ---
 
-## 🎓 Academic Projects  
-
-📌 **Flight Delay Analysis using MySQL & Tableau**  
-📊 Designed a database for **US flight schedules and delays**, visualized trends with **Tableau**  
-
-📌 **Predictive Sales Forecasting for Frozen Products (Power BI)**  
-📈 Built a **forecasting model** using historical sales data and **advanced DAX formulas**  
-
----
-
 ## 🎤 Leadership & Mentorship  
 
 👩‍🏫 **Graduate Teaching Assistant | UTD, JSOM Career Management Center (2024 - Present)**  
@@ -122,7 +112,3 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 📌 **GitHub**: [github.com/mugdha268](https://github.com/mugdha268)  
 
 ---
-
-### 🌟 Fun Fact:  
-I love **solving data challenges** and **creating interactive dashboards**! If you’re passionate about **data engineering and BI**, let’s connect! 🚀
-
