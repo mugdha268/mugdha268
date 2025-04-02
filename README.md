@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-🎯 **Data Engineer | Business Intelligence Developer | Problem Solver**  
-📍 Dallas, Texas | 📩 mugdhasonare@gmail.com | [LinkedIn](https://linkedin.com/in/mugdha-sonare)  
+**Data Engineer | Business Intelligence Developer | Problem Solver**  
+Dallas, Texas | 📩 mugdhasonare@gmail.com | [LinkedIn](https://linkedin.com/in/mugdha-sonare)  
 
 I specialize in **data engineering, analytics, and cloud-based solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and business intelligence tools**.
 
@@ -85,28 +85,28 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 ## 💼 Work Experience  
 
 ### 📌 **Data Engineer Intern | Vulcan Materials Company (June 2024 - August 2024)**
-- 🚀 Built **Tableau dashboards** to track KPIs, reducing operational costs by **25%**  
-- 📊 Migrated data to **Tableau Cloud**, improving refresh accuracy by **15%**  
-- 🏗️ Designed **dimensional data models** in **Snowflake** for efficient reporting  
+- Built **Tableau dashboards** to track KPIs, reducing operational costs by **25%**  
+- Migrated data to **Tableau Cloud**, improving refresh accuracy by **15%**  
+- Designed **dimensional data models** in **Snowflake** for efficient reporting  
 
 ### 📌 **Data Warehouse/BI Developer | Amdocs Development Centre (August 2021 -  July 2023)**
-- 💾 Developed **ETL pipelines** for the largest US telecom company, improving efficiency by **20%**  
-- ☁ Migrated on-premise data to **Snowflake cloud** with **<1% data loss**  
-- 🔄 Automated data ingestion, reducing data load time by **20%**  
+- Developed **ETL pipelines** for the largest US telecom company, improving efficiency by **20%**  
+- Migrated on-premise data to **Snowflake cloud** with **<1% data loss**  
+- Automated data ingestion, reducing data load time by **20%**  
 
 ---
 
 ## 🎤 Leadership & Mentorship  
 
-👩‍🏫 **Graduate Teaching Assistant | UTD, JSOM Career Management Center (2024 - Present)**  
-- 🚀 Mentored **350+ students** on **resume building, LinkedIn optimization, and job search strategies**  
+**Graduate Teaching Assistant | UTD, JSOM Career Management Center (2024 - Present)**  
+- Mentored **350+ students** on **resume building, LinkedIn optimization, and job search strategies**  
 
 ---
 
 ## 📬 Connect With Me!  
 
-📩 **Email**: mugdhasonare@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/mugdha-sonare](https://linkedin.com/in/mugdha-sonare)  
-📌 **GitHub**: [github.com/mugdha268](https://github.com/mugdha268)  
+**Email**: mugdhasonare@gmail.com  
+**LinkedIn**: [linkedin.com/in/mugdha-sonare](https://linkedin.com/in/mugdha-sonare)  
+**GitHub**: [github.com/mugdha268](https://github.com/mugdha268)  
 
 ---
